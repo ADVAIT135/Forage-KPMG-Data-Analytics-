@@ -8,3 +8,4 @@ This Repository consist of all the Jupyter Notebooks, Images and .CSV files of t
 
 ## Task 2: Data Insights
 #### [Python Notebook for Task 2 on nbviewer.org](https://nbviewer.org/github/ADVAIT135/Forage-KPMG-Data-Analytics-/blob/a1388da9fd166feb5c52c6705b73910f04c7c3e8/Task%202%3A%20Data%20Insights/Forage%20KPMG%20Data%20Analytics%20Task%202%20-%20Data%20Insights.ipynb)
+#### [.csv file of Cleaned Customer Transaction Data](https://raw.githubusercontent.com/ADVAIT135/Forage-KPMG-Data-Analytics-/main/Task%202%3A%20Data%20Insights/Cleaned%20customer%20transaction%20data.csv)
