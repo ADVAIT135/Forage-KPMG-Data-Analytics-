@@ -16,3 +16,6 @@ This Repository consist of all the Jupyter Notebooks, Images and .CSV files of t
 #### [PDF file of Data Insights](https://github.com/ADVAIT135/Forage-KPMG-Data-Analytics-/blob/5203da6a900db82e3b42c990a7d7540fe935e413/Task%203%3A%20Data%20Insights%20and%20Presentation/Forage%20KPMG%20Data%20Analytics%20Task%203-%20Data%20Insights%20and%20Presentation.pdf)
 
 #### [Power BI .pbix file](https://github.com/ADVAIT135/Forage-KPMG-Data-Analytics-/blob/5203da6a900db82e3b42c990a7d7540fe935e413/Task%203%3A%20Data%20Insights%20and%20Presentation/Forage%20KPMG%20Data%20Analytics%20Task%203-%20Data%20Insights%20and%20Presentation.pbix)
+
+
+## [Completion Certificate](https://github.com/ADVAIT135/Forage-KPMG-Data-Analytics-/blob/5bffc84079ce648a252236d4539bc8516773fe69/Task%203%3A%20Data%20Insights%20and%20Presentation/m7W4GMqeT3bh9Nb2c_KPMG%20AU_xHj9pxotQTSvEtW8B_1700390950926_completion_certificate.pdf)
